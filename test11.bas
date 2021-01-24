@@ -1,0 +1,13 @@
+a = 4
+
+IF a > 5 THEN
+
+PRINT ("HELLO")
+
+ELSE
+
+PRINT ("WORLD")
+
+ENDIF
+
+END

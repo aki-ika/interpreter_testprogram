@@ -1,0 +1,7 @@
+FOR i = 1 TO 3
+
+PRINT ("HELLO")
+  
+NEXT i
+
+END

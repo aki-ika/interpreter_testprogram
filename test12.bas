@@ -1,0 +1,11 @@
+IF d > 0 THEN
+
+PRINT ("HELLO")
+
+ELSEIF d = 0 THEN
+
+PRINT ("WORLD")
+
+ELSE
+
+PRINT ("HELLO WORLD")

@@ -1,0 +1,9 @@
+a = 0
+
+IF a < 1 THEN
+
+PRINT ("HELLO")
+
+ENDIF
+
+END
