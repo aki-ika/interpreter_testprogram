@@ -28,3 +28,4 @@ BASICライク言語のインタプリタ用のテストプログラム
 |test19.bas | 計算テスト |
 |test20.bas | 変数が2種類(以上)の場合のテスト |
 |test21.bas | FORALLのテスト |
+|test22.bas | 配列(DIM)のテスト |
