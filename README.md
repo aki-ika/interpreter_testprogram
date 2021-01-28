@@ -27,3 +27,4 @@ BASICライク言語のインタプリタ用のテストプログラム
 |test18.bas | DO stmt_list - UNTILのテスト|
 |test19.bas | 計算テスト |
 |test20.bas | 変数が2種類(以上)の場合のテスト |
+|test21.bas | FORALLのテスト |

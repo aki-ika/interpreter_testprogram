@@ -1,0 +1,3 @@
+FORALL a IN 1 .. 5
+
+PRINT ("HELLO")
